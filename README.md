@@ -17,6 +17,7 @@ Hitori</h1>
 Hitori is a logic puzzle that originated in Japan. The name “hitori” means “Alone” or “One person” (ひとりにしてくれ Hitori ni shite kure, literally "leave me alone") and the puzzle involves eliminating numbers from a grid so that no number appears more than once in any row or column.
 <br/>
 
+
 At the beginning of the puzzle, some numbers are already filled in, and the solver must use logic and deduction to determine which numbers to eliminate. The solved puzzle will have all remaining numbers arranged so that there are no duplicates in any row or column.
 
 Hitori puzzles typically come in different sizes and difficulty levels, and they are often found in puzzle books or online puzzle websites.
