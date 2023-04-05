@@ -3,8 +3,8 @@ Hitori</h1>
 <h3 align="center"> Computer, Electronic and Telecommunications Engineering </h3>
 <h5 align="center"> Project Assignment - fundamentals of computer science - <a href="https://www.unipr.it">University of Parma</a> (December 2019) </h5>
 </hr>
-<details open="open">
   <h2 id="table-of-contents"> :book: Table of Contents</h2>
+<details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#intro"> ➤ Intro</a></li>
