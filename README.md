@@ -4,7 +4,8 @@ Hitori</h1>
 <h5 align="center"> Project Assignment - fundamentals of computer science - <a href="https://www.unipr.it">University of Parma</a> (December 2019) </h5>
 </hr>
 <details open="open">
-  <summary>:book: Table of Contents</summary>
+  <h2 id="table-of-contents"> :book: Table of Contents</h2>
+  <summary>Table of Contents</summary>
   <ol>
     <li><a href="#intro"> ➤ Intro</a></li>
     <li><a href="#rules"> ➤ Rules</a></li>
