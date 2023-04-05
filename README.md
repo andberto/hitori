@@ -1,22 +1,31 @@
 <h1 align="center">
 Hitori</h1>
 <h3 align="center"> Computer, Electronic and Telecommunications Engineering </h3>
-<h5 align="center"> Project Assignment - Introduction to artificial intelligence  - <a href="https://www.unipr.it">University of Parma</a> (June 2022) </h5>
+<h5 align="center"> Project Assignment - fundamentals of computer science - <a href="https://www.unipr.it">University of Parma</a> (December 2019) </h5>
 </hr>
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#intro"> ➤ Intro</a></li>
+    <li><a href="#rules"> ➤ Rules</a></li>
+    <li><a href="#solve"> ➤ Solving techniques</a></li>
+  </ol>
+</details>
+<h2 id="intro"> :pencil: Intro</h2>
 Hitori is a logic puzzle that originated in Japan. The name “hitori” means “alone” or “single” in Japanese, and the puzzle involves eliminating numbers from a grid so that no number appears more than once in any row or column.
 
 At the beginning of the puzzle, some numbers are already filled in, and the solver must use logic and deduction to determine which numbers to eliminate. The solved puzzle will have all remaining numbers arranged so that there are no duplicates in any row or column.
 
 Hitori puzzles typically come in different sizes and difficulty levels, and they are often found in puzzle books or online puzzle websites.
 
-# Rules #
+<h2 id="rules"> :pencil: Rules</h2>
 Hitori is played with a grid of squares or cells, with each cell initially containing a number. The game is played by eliminating squares/numbers and this is done by blacking them out. The objective is to transform the grid to a state wherein all three following rules are true:
 
 * no row or column can have more than one occurrence of any given number
 * black cells cannot be horizontally or vertically adjacent, although they can be diagonal to one another.
 * the remaining numbered cells must be all connected to each other, horizontally or vertically.
 
-# Solving techniques #
+<h2 id="solve"> :triangular_ruler: Solving techniques</h2>
 * Once it is determined that a cell cannot be black, some players find it useful to circle the number, as it makes the puzzle easier to read as the solution progresses. Below we assume that this convention is followed.
 * When it is determined that a cell must be black, all orthogonally adjacent cells cannot be black and so can be circled.
 * If a cell has been circled to show that it cannot be black, any cells containing the same number in that row and column must be black.
