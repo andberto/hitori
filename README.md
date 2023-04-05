@@ -47,6 +47,7 @@ Hitori is played with a grid of squares or cells, with each cell initially conta
 
 <h2 id="solve"> :technologist: Preview</h2>
 To run the script simply run the `main.py` with the command `python main.py`.
+<br>
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
