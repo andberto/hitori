@@ -26,6 +26,7 @@ Hitori is played with a grid of squares or cells, with each cell initially conta
 * the remaining numbered cells must be all connected to each other, horizontally or vertically.
 
 <h2 id="solve"> :triangular_ruler: Solving techniques</h2>
+
 * Once it is determined that a cell cannot be black, some players find it useful to circle the number, as it makes the puzzle easier to read as the solution progresses. Below we assume that this convention is followed.
 
 * When it is determined that a cell must be black, all orthogonally adjacent cells cannot be black and so can be circled.
