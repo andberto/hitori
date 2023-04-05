@@ -10,6 +10,7 @@ Hitori</h1>
     <li><a href="#intro"> ➤ Intro</a></li>
     <li><a href="#rules"> ➤ Rules</a></li>
     <li><a href="#solve"> ➤ Solving techniques</a></li>
+    <li><a href="#preview"> ➤ Preview</a></li>
   </ol>
 </details>
 <h2 id="intro"> :bomb: Intro</h2>
@@ -46,7 +47,7 @@ Hitori is played with a grid of squares or cells, with each cell initially conta
 
 * When two pairs of identical numbers form a square in the corner of a grid, the corner square and the one diagonally opposite must be black. The alternative would leave the corner square isolated from the other non-black numbers.
 
-<h2 id="solve"> :technologist: Preview</h2>
+<h2 id="preview"> :technologist: Preview</h2>
 To run the script simply run the <b>main.py</b> with the command <b>python main.py</b> .
 <br />
 <br />
