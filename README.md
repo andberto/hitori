@@ -46,7 +46,7 @@ Hitori is played with a grid of squares or cells, with each cell initially conta
 * When two pairs of identical numbers form a square in the corner of a grid, the corner square and the one diagonally opposite must be black. The alternative would leave the corner square isolated from the other non-black numbers.
 
 <h2 id="solve"> :technologist: Preview</h2>
-To run the script simply run the ` main.py ` with the command ` python main.py `.
+To run the script simply run the ***main.py*** with the command ***python main.py ***.
 <br />
 <br />
 
